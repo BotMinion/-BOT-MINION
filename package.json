@@ -1,0 +1,13 @@
+{
+  "name": "[BOT]MINION",
+  "description": "뀨?",
+  "version": "6.9.7.4",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "disocrd.js": "11.1.0",
+    "request": "2.81.0"
+    }
+}
