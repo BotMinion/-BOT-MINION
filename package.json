@@ -2,9 +2,9 @@
   "name": "[BOT]MINION",
   "description": "뀨?",
   "version": "6.9.7.4",
-  "main": "bot.js",
+  "main": "Bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node Bot.js"
   },
   "dependencies": {
     "disocrd.js": "11.1.0",
